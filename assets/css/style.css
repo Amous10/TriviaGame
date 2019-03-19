@@ -1,0 +1,82 @@
+
+.header{
+    background-image: linear-gradient(hsl(212, 48%, 51%),hsl(216, 54%, 67%),hsl(212, 61%, 21%));
+    text-align: center;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding: 2 0 2 0;
+    height: 80px;
+}
+
+#title{
+font-size: 50px;
+font-weight: bold;
+}
+
+#results{
+    background-image: linear-gradient(hsl(212, 48%, 51%),hsl(216, 54%, 67%),hsl(212, 61%, 21%));
+    text-align: center;
+    border-radius: 20px;
+    padding: 2 0 2 0;
+    height: 50px;
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+.body{
+text-align: center;
+border-style: solid;
+border: 3 3 3 3;
+border-radius: 10px;
+margin-top: 5px;
+
+}
+.Q{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+}
+.question{
+    text-align: left;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    background-color: whitesmoke;
+}
+.input{
+ font-size: 18px;
+ text-align: justify;
+ margin-left: 10px;
+
+}
+
+.button{
+    padding: 8px 15px;
+    font-size: 24px;
+    margin-bottom: 5px;
+    width:200px;
+    border: solid;
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: #000203;
+    color: white;
+}
+
+
+
+#timer-container{
+    background-color: rgb(199, 234, 250);
+    box-sizing: content-box;
+    border: solid;
+    position: relative;
+    text-align: center; z-index: \;;
+    height: 30px;
+    padding: 10px;
+    margin-top: 5px;
+    
+}
+
