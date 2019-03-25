@@ -12,7 +12,7 @@ $('#start').on('click', function() {
 })
 
 function timer() {
-  var timeRemaining = 30;
+  var timeRemaining = 60;
   var displayTime = setInterval(function(){
     $('#appendTime').text(timeRemaining + " seconds");
     timeRemaining--;
